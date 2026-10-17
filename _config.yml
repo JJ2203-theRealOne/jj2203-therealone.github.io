@@ -1,0 +1,5 @@
+title: theRealOne — PostFiat testnet validator
+description: Public identity and domain attestation for theRealOne's PostFiat testnet validator.
+url: https://jj2203-therealone.github.io
+include:
+  - .well-known
